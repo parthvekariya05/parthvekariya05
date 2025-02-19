@@ -26,6 +26,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 <br><br>  
-
+<h1>Bedges: </h1>
+<img src="https://github.githubassets.com/assets/profile-first-pr-e568025b6e24.svg" height=100 width=100/>
 <img src="https://github-readme-stats.vercel.app/api?username=parthvekariya05&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="parthvekariya05's GitHub Stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=parthvekariya05&theme=algolia" /></a>
