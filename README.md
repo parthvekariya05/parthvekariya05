@@ -27,6 +27,6 @@
 </div>
 <br><br>  
 <h3>Badges: </h3>
-<img src="https://github.githubassets.com/assets/profile-first-pr-e568025b6e24.svg" height=100 width=100/>
+<img src="https://github.githubassets.com/assets/profile-first-pr-e568025b6e24.svg" height=150 width=150/>
 <img src="https://github-readme-stats.vercel.app/api?username=parthvekariya05&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="parthvekariya05's GitHub Stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=parthvekariya05&theme=algolia" /></a>
