@@ -1,6 +1,9 @@
-<h4 style="color: blue; text-shadow: 0px 0px 10px lightblue;">
-  Visitor Count:<img height="20" src="https://profile-counter.glitch.me/parthvekariya05/count.svg" />
- </h4>
+<img align="right" alt="Astronaut GIF" style="border-radius: 100px; width: 500px; height: 350px;" src="https://media.tenor.com/sFdzKK1cHcsAAAAj/astronaut-tumble-astronaut.gif">
+
+<p align="left">
+  <img width="155" height="30" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=e6930e&style=flat" alt="bhadramohit09" />
+</p>
+ 
 👨‍💻 About Me
 
 I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **.Net Core**. I enjoy building robust web applications and modern mobile experiences. I'm passionate about clean code, scalability, and learning the latest technologies
