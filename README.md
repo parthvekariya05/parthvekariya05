@@ -6,19 +6,64 @@
 
 
   
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+## 🚀Tech Stack
+<table align="center" style="border: 3px dashed #18b7e3; border-radius: 10px; padding: 10px;">
+  <tr>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Frontend ✨</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Backend ✨</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Databases & Cloud ✨</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></td>
+  </tr>
+
+  <tr>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Programming Languages ✨</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditbhatt-5&theme=blueberry&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="180" />
+</p>
+
+---
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
