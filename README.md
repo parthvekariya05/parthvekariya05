@@ -1,5 +1,4 @@
-<img align="right" alt="Astronaut GIF" style="border-radius: 100px; width: 500px; height: 350px;" src="[[[https://media.tenor.com/sFdzKK1cHcsAAAAj/astronaut-tumble-astronaut.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-engineer&psig=AOvVaw3LOI1HuWKW5hPkVOh86Plv&ust=1749461851795000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDzvrTD4Y0DFQAAAAAdAAAAABAE)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWM3YzIyZ3diajIzcHVpNnlkazNhcTdsMG1yMjMyYnJxN2lnNzY0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z3bTZ2bzUza3NiaXV3eWdjZzEzaWxtdGE4cGZzNHhqZGJuNnoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)">
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="500" height="320" />
 <p align="left">
   <img width="155" height="30" src="https://komarev.com/ghpvc/?username=parthvekariya05&label=Profile%20views&color=e6930e&style=flat" alt="parthvekariya05" />
 </p>
