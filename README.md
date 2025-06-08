@@ -8,6 +8,16 @@
   
 ## 🚀Tech Stack
 <table align="center" style="border: 3px dashed #18b7e3; border-radius: 10px; padding: 10px;">
+   <tr>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Programming Languages ✨</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></td>
+   
+  </tr>
   <tr>
     <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Frontend ✨</th>
   </tr>
@@ -41,16 +51,7 @@
     <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></td>
   </tr>
 
-  <tr>
-    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Programming Languages ✨</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></td>
-  </tr>
+ 
 </table>
 
 ---
