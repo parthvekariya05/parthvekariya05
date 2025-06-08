@@ -1,6 +1,9 @@
 <h4 style="color: blue; text-shadow: 0px 0px 10px lightblue;">
   Visitor Count: <img height="20" src="https://profile-counter.glitch.me/parthvekariya05/count.svg" />
  </h4>
+ ### 🚀 Passionate Full-Stack Developer
+
+I'm specialized in modern web and app development, enthusiastic about creating efficient and scalable applications.
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
 
