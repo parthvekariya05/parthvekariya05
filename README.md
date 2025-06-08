@@ -1,11 +1,20 @@
 <h4 style="color: blue; text-shadow: 0px 0px 10px lightblue;">
   Visitor Count:<img height="20" src="https://profile-counter.glitch.me/parthvekariya05/count.svg" />
  </h4>
- 🚀 Passionate Full-Stack Developer
+👨‍💻 About Me
 
-I'm specialized in modern web and app development, enthusiastic about creating efficient and scalable applications.
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
+I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **Flutter**. I enjoy building robust web applications and modern mobile experiences. I'm passionate about clean code, scalability, and learning the latest technologies
+
+- 🔭 I’m currently working on MERN & Flutter projects.
+- 🌱 I’m currently learning advanced backend architecture and microservices.
+- 💬 Ask me about **React.js**, **Flutter**, or **Node.js**.
+- 👨‍💻 All of my projects are available at [DaveJay70](https://github.com/DaveJay70)
+- ⚡ Fun fact: I enjoy reverse engineering UIs for learning!
+
+---
+
+
+
 
 
   
