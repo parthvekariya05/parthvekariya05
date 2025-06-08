@@ -1,7 +1,7 @@
 <h4 style="color: blue; text-shadow: 0px 0px 10px lightblue;">
   Visitor Count: <img height="20" src="https://profile-counter.glitch.me/parthvekariya05/count.svg" />
  </h4>
- ### 🚀 Passionate Full-Stack Developer
+ 🚀 Passionate Full-Stack Developer
 
 I'm specialized in modern web and app development, enthusiastic about creating efficient and scalable applications.
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
@@ -9,7 +9,7 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 
   
-## 🚀Tech Stack
+🚀Tech Stack
 <table align="center" style="border: 3px dashed #18b7e3; border-radius: 10px; padding: 10px;">
    <tr>
     <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Programming Languages ✨</th>
@@ -56,7 +56,7 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 ---
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="180" />
