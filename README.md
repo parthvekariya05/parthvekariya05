@@ -26,7 +26,6 @@
     <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></td>
     <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" /></td>
   </tr>
 
   <tr>
@@ -36,7 +35,6 @@
     <td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></td>
   </tr>
 
@@ -46,7 +44,6 @@
   <tr>
     <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></td>
   </tr>
