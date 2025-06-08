@@ -15,16 +15,22 @@ I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **.Net C
 - ⚡ Fun fact: I enjoy reverse engineering UIs for learning!
 
 ---
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
-### 🛠️ Tech Stack
-
-| **Frontend** | **Backend** | **Mobile** | **Database** | **Styling** | **Tools & Others** |
-|-------------|-------------|------------|--------------|-------------|---------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" /> |
-| <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" /> | <img src="https://developer.android.com/images/brand/Android_Robot.png" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="30" /> |
+<ul>
+  <li><strong>Frontend Development:</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=react,js,angular,bootstrap,flutter" />
+  </li>
+  <li><strong>Backend Development:</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,mongodb,express,python" />
+  </li>
+  <li><strong>Platforms and Tools:</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=discord,googlecloud,gitlab,vscode,gatsby" />
+  </li>
+</ul>
 
 ---
 
