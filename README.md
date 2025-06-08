@@ -3,12 +3,12 @@
  </h4>
 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **Flutter**. I enjoy building robust web applications and modern mobile experiences. I'm passionate about clean code, scalability, and learning the latest technologies
+I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **.Net Core**. I enjoy building robust web applications and modern mobile experiences. I'm passionate about clean code, scalability, and learning the latest technologies
 
 - 🔭 I’m currently working on MERN & Flutter projects.
 - 🌱 I’m currently learning advanced backend architecture and microservices.
 - 💬 Ask me about **React.js**, **Flutter**, or **Node.js**.
-- 👨‍💻 All of my projects are available at [DaveJay70](https://github.com/DaveJay70)
+- 👨‍💻 All of my projects are available at [parthvekariya05](https://github.com/parthvekariya05)
 - ⚡ Fun fact: I enjoy reverse engineering UIs for learning!
 
 ---
@@ -34,9 +34,9 @@ I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **Flutte
  📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditbhatt-5&theme=blueberry&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthvekariya05&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthvekariya05&theme=blueberry&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthvekariya05&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="180" />
 </p>
 
 ---
