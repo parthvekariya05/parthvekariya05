@@ -1,5 +1,5 @@
 <h4 style="color: blue; text-shadow: 0px 0px 10px lightblue;">
-  Visitor Count: 5000 <img height="20" src="https://profile-counter.glitch.me/parthvekariya05/count.svg" />
+  Visitor Count:<img height="20" src="https://profile-counter.glitch.me/parthvekariya05/count.svg" />
  </h4>
  🚀 Passionate Full-Stack Developer
 
