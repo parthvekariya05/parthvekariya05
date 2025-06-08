@@ -13,57 +13,23 @@ I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **Flutte
 
 ---
 
+### 🛠️ Tech Stack
+
+| **Frontend** | **Backend** | **Mobile** | **Database** | **Styling** | **Tools & Others** |
+|-------------|-------------|------------|--------------|-------------|---------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" /> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" /> |
+| <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" /> | <img src="https://developer.android.com/images/brand/Android_Robot.png" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="30" /> |
+
+---
 
 
 
 
   
-🚀Tech Stack
-<table align="center" style="border: 3px dashed #18b7e3; border-radius: 10px; padding: 10px;">
-   <tr>
-    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Programming Languages ✨</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></td>
-   
-  </tr>
-  <tr>
-    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Frontend ✨</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></td>
-    <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /></td>
-  </tr>
 
-  <tr>
-    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Backend ✨</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></td>
-  </tr>
-
-  <tr>
-    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Databases & Cloud ✨</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></td>
-  </tr>
-
- 
-</table>
-
----
 
  📊 GitHub Stats
 
