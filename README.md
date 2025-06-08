@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** with expertise in the **MERN Stack** and **.Net C
 
 - 🔭 I’m currently working on MERN & Flutter projects.
 - 🌱 I’m currently learning advanced backend architecture and microservices.
-- 💬 Ask me about **React.js**, **Flutter**, or **Node.js**.
+- 💬 Ask me about **React.js**, **.Net Core**, or **Node.js**.
 - 👨‍💻 All of my projects are available at [parthvekariya05](https://github.com/parthvekariya05)
 - ⚡ Fun fact: I enjoy reverse engineering UIs for learning!
 
